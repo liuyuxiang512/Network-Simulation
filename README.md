@@ -7,7 +7,9 @@ Simulate a network environment and design a routing mechanism.
 * hw_clear.cc only outputs 4 indexes (max queue length, average time delay, average throughput, and average packet loss rate) into 4 dat files.
 
 ## How to run
-***./waf
-
-***./waf -run scratch/hw_clear
-
+```
+./waf
+```
+```
+./waf -run scratch/hw_clear
+```
